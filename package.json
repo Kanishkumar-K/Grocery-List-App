@@ -1,0 +1,65 @@
+{
+  "name": "list",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@react-pdf-viewer/core": "^3.12.0",
+    "@react-spring/core": "^9.7.3",
+    "@react-spring/web": "^9.7.3",
+    "@tensorflow/tfjs": "^4.14.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "annyang": "^2.6.1",
+    "compromise": "^14.10.1",
+    "dom-to-image": "^2.6.0",
+    "franc": "^6.1.0",
+    "gm": "^1.25.0",
+    "google-translate-api": "^2.3.0",
+    "html2canvas": "^1.4.1",
+    "html2pdf.js": "^0.10.1",
+    "imagemagick": "^0.1.3",
+    "jspdf": "^2.5.1",
+    "langdetect": "^0.2.1",
+    "react": "^18.2.0",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-dom": "^18.2.0",
+    "react-pdf": "^7.5.1",
+    "react-pdf-viewer": "^0.1.0",
+    "react-responsive": "^9.0.2",
+    "react-scripts": "5.0.1",
+    "react-spring": "^9.7.3",
+    "react-to-pdf": "^1.0.1",
+    "string-similarity": "^4.0.4",
+    "tesseract.js": "^5.0.3",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "reportWebVitals": "react-scripts reportWebVitals"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
